@@ -1,3 +1,5 @@
+console.log("MOI");
+
 redirectAppointmentType("Human Design Basic Reading mit Monique", "https://shop.humandesign-mentoring.com/s/humandesign-mentoring/basic-reading-mit-monique/payment?pid=63077&prid=9537"); 
 
 redirectAppointmentType("Human Design Basic Reading mit Maike", "https://shop.humandesign-mentoring.com/s/humandesign-mentoring/basic-reading-mit-maike/payment?pid=63076&prid=9536"); 
